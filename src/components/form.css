@@ -1,0 +1,30 @@
+#register{
+  background-color:bisque;
+  
+  color:rgb(116, 19, 120);
+  padding: 80px ;
+
+}
+#main-registration-container{
+  background-color: rgb(231, 197, 94);
+  border-radius: 5%;
+  padding:50px 50px;
+  margin: 100px;
+}
+.errorMsg{
+  padding:20px 50px;
+}
+.button{
+  color: aliceblue;
+  background-color: rgb(95, 147, 172);
+  padding: 10px 50px;
+}
+input[type=text],input[type=password]
+{
+  padding: 10px;
+  width: 150px;
+
+}
+
+
+
